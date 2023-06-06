@@ -13,7 +13,7 @@ Creamos el perfil:
 ```bash
   New-Item -Path $PROFILE -Type File -Force
 ```
-Ingresamos a nuestro $PROFILE script de powershell:
+Ingresamos con un editor de texto a nuestro $PROFILE script de powershell:
 ```
   notepad $PROFILE
 ```
